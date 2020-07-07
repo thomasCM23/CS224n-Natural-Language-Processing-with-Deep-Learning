@@ -1,5 +1,5 @@
 # Notes
-I did not officially take this course, I watched the publically available lectures and assignments. I want to thank [Stanford University](https://www.stanford.edu/), the [Computer Science Department](https://cs.stanford.edu/), and [The Stanford NLP Group](https://nlp.stanford.edu/) for making this course publically available, allow me and other to gain a deep understanding of NLP with deep learning. I encourage anyone who has an interest to follow the links below.
+I did not officially take this course, I watched the publicly available lectures and assignments. I want to thank [Stanford University](https://www.stanford.edu/), the [Computer Science Department](https://cs.stanford.edu/), and [The Stanford NLP Group](https://nlp.stanford.edu/) for making this course publicly available, allowing me and others to gain a deep understanding of NLP with deep learning. I encourage anyone who has an interest to follow the links below.
 
 [Course Page](http://web.stanford.edu/class/cs224n/)
 
