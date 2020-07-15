@@ -137,4 +137,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-a3/student/data/*
+sanity_check_en_es_data/*
+en_es_data/*
+model.bin.optim
+model.bin
